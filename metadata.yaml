@@ -1,5 +1,8 @@
 _repo: Colonial-Homes-in-North-Carolina_52239
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52239-h/images/cover.jpg
 creator:
   author:
     agent_name: Allcott, John V.
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46739'
     url: http://www.gutenberg.org/2009/agents/46739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52239#Colonial-Homes-in-North-Carolina
 gutenberg_issued: '2016-06-05'
 gutenberg_type: Text
 identifiers:
